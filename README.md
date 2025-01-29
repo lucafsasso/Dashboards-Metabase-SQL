@@ -16,7 +16,6 @@ Este repositório contém dashboards desenvolvidos no curso de **Analista de Dad
 ## 🔧 **Tecnologias Utilizadas**  
 - **📊 Data Visualization:** Power BI, Metabase  
 - **🗄️ Banco de Dados:** SQL, PostgreSQL, MySQL  
-- **🐍 Programação:** Python (Pandas, NumPy)  
 
 📩 **Contato:**  
 📧 Email: [lucafsasso@hotmail.com](mailto:lucafsasso@hotmail.com)  
