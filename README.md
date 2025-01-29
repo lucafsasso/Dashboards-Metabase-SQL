@@ -10,9 +10,6 @@ Este repositório contém dashboards desenvolvidos no curso de **Analista de Dad
 **Análise e visualização de dados utilizando SQL e Metabase.**  
 ![Dashboard SQL & Metabase](dashboard.SQL.Metabase.png)  
 
-### 📊 Dashboard Power BI  
-**Exploração de dados e relatórios interativos no Power BI.**  
-![Dashboard Power BI](dashboard-desafio01.png)  
 
 ---
 
