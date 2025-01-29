@@ -1,4 +1,4 @@
-# 📊 Dashboards Power BI & Metabase - Curso Analista de Dados | Escola DNC  
+# 📊 Dashboards SQL & Metabase - Curso Analista de Dados | Escola DNC  
 
 Este repositório contém dashboards desenvolvidos no curso de **Analista de Dados da Escola DNC**. Aqui, publico projetos utilizando **SQL e Metabase**, explorando análise de dados e visualizações estratégicas.  
 
