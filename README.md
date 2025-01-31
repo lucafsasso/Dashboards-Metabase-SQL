@@ -26,13 +26,17 @@ Este repositório contém dashboards desenvolvidos no curso de **Analista de Dad
 **Visão estratégica do desempenho de produtos, incluindo estoque, rentabilidade e sazonalidade.**  
 ![Dashboard Gerencial de Produto](dashboard-gerencial-produtos.png)  
 
+### 🏦 Dashboard Case Bankverse  
+**Estudo de caso sobre a empresa Bankverse, analisando métricas financeiras e operacionais para insights estratégicos.**  
+![Dashboard Case Bankverse](dashboard-case-bankverse.png)  
+
 ---
 
 ## 🔧 **Tecnologias Utilizadas**  
 - **📊 Data Visualization:** Metabase  
-- **🗄️ Banco de Dados:** SQL, PostgreSQL, MySQL, Excel
+- **🗄️ Banco de Dados:** SQL, PostgreSQL, MySQL, Excel  
 
 📩 **Contato:**  
 📧 Email: [lucafsasso@hotmail.com](mailto:lucafsasso@hotmail.com)  
 📱 WhatsApp: (11) 99560-7670  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/luca-favilli-sasso/) 
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/luca-favilli-sasso/)  
